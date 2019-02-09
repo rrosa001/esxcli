@@ -1,2 +1,2 @@
 # esxcli
-VMware esxcli commands for vSPhere platform fgement
+VMware esxcli commands for vSPhere platform management
